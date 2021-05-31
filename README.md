@@ -1,5 +1,5 @@
 # Kaggle-Titanic-Solution
-<hr>
+
 <br>
 
 ![titanic1](https://user-images.githubusercontent.com/53862641/120163046-b19f2c80-c216-11eb-8dc5-4fb1581c4b20.jpg)
