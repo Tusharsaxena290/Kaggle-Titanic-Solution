@@ -18,5 +18,5 @@ Refer Submission.csv to check the predictions.
 
 Survied Mappings:
 
-1: Survived
-0: Not Survived
+1: Survived <br>
+0: Not Survivedh
